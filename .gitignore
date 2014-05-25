@@ -1,0 +1,11 @@
+*.log
+*.lck
+.DS_Store
+cache/
+saves/
+stats/
+options.txt
+optionsof.txt
+bin/minecraft.jar
+bin/natives*
+bin/version*
